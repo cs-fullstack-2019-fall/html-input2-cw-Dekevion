@@ -1,5 +1,6 @@
+Score : 3
 # HTML Input 2 CW
-
+#### Partial : button is not associate with your form and there should be more margins between your fields and required feilds are not required 
 Duplicate the form depicted in the included image. Note the following:
 
 * Use placeholders (hints) where shown
